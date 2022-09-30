@@ -23,7 +23,7 @@ Like other Rx implementations, RxSwift's intention is to enable easy composition
 
 KVO observation, async operations, UI Events and other streams of data are all unified under [abstraction of sequence](Documentation/GettingStarted.md#observables-aka-sequences). This is the reason why Rx is so simple, elegant and powerful.
 
-## I came here because I want to ...
+## I came here because I want to ....
 
 ###### ... understand
 
@@ -182,7 +182,7 @@ github "ReactiveX/RxSwift" "6.5.0"
 ```
 
 ```bash
-$ carthage update
+$ Carthage update
 ```
 
 #### Carthage as a Static Library
